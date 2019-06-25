@@ -1,0 +1,13 @@
+recruit:
+ "mm.malikov":
+  -
+   firstName: Maxim
+   lastName: Malikov
+   age: 29
+  -
+   education: "SPBSU AM&CP"
+   career: "Almost 6 years of Quality Assurance"
+   "programming background": "Mostly development of autotests on Java, Python, Javascript"
+  -
+   telegram: "@yablokinasnegu"
+   email: "mm.malikov@yandex.ru"
